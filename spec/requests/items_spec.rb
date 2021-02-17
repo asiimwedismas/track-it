@@ -78,6 +78,10 @@ RSpec.describe 'Items API', type: :request do
       it 'returns status code 201' do
         expect(response).to have_http_status(201)
       end
+
+      it 'returns the saved item' do
+        expect(json['name']).to match(/soda/)
+      end
     end
 
     context 'when an invalid request' do

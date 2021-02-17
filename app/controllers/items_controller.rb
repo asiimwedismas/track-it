@@ -14,8 +14,8 @@ class ItemsController < ApplicationController
 
   # POST /categories/:category_id/items
   def create
-    @category.items.create!(name: params[:name], amount: params[:amount], user_id: current_user.id)
-    json_response(@category, :created)
+    item = @category.items.create!(name: params[:name], amount: params[:amount], user_id: current_user.id)
+    json_response(item, :created)
   end
 
   # PUT /categories/:category_id/items/:id
