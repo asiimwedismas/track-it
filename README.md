@@ -24,9 +24,9 @@ To get a local copy up and running follow the next steps.
 ### Setup
 
 ```
-<!-- $ git clone https://github.com/asiimwedismas/dev-digest.git -->
-<!-- $ cd dev-digest -->
-<!-- $ yarn install --check-files -->
+$ git clone https://github.com/asiimwedismas/track-it.git
+$ cd track-it
+$ yarn install --check-files
 ```
 
 ### Install
