@@ -7,9 +7,9 @@ This is a back-end rails app for tracking things. It does not enforce the items 
 - Ruby v3.0.0
 - Ruby on Rails v6.0.3
 
-## Live Demo
+## Backend live link
 
-<!-- [Live Demo Link](https://murmuring-retreat-00624.herokuapp.com/) -->
+[Live Demo Link](https://fathomless-escarpment-06793.herokuapp.com/)
 
 ## Getting Started
 
