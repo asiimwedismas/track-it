@@ -7,10 +7,6 @@ This is a back-end rails app for tracking things. It does not enforce the items 
 - Ruby v3.0.0
 - Ruby on Rails v6.0.3
 
-## Live Demo
-
-<!-- [Live Demo Link](https://murmuring-retreat-00624.herokuapp.com/) -->
-
 ## Getting Started
 
 To get a local copy up and running follow the next steps.
@@ -24,9 +20,9 @@ To get a local copy up and running follow the next steps.
 ### Setup
 
 ```
-<!-- $ git clone https://github.com/asiimwedismas/dev-digest.git -->
-<!-- $ cd dev-digest -->
-<!-- $ yarn install --check-files -->
+$ git clone https://github.com/asiimwedismas/track-it.git
+$ cd track-it
+$ yarn install --check-files
 ```
 
 ### Install
@@ -52,7 +48,11 @@ Start server with:
 $ rails server
 ```
 
-Open `http://localhost:3000/` in your browser.
+Read the API Documentation and open up your favourite http client and take it for a spin.
+
+## API Documentation
+
+[Documentation here](https://documenter.getpostman.com/view/13793489/TWDUrJMt)
 
 ### Run tests
 
