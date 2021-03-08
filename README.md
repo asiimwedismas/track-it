@@ -1,6 +1,6 @@
 # Track-it
 
-This is a back-end rails app for tracking things. It does not enforce the items to track, that is left to you as the user. For example, in the field of finance you could want to track how much you spend on non-essentail items like soft drinks. Simply create categories for the items you wish to track and know how much you spend on said items.
+This is a back-end rails app for tracking things. It does not enforce the items to track. That is left to you as the user. For example, in the field of finance you might want to track how much you spend on non-essential items like soft drinks. Simply create categories for the items you wish to track and know how much you spend on said items. Built with Rails framework.
 
 ## Built With
 
